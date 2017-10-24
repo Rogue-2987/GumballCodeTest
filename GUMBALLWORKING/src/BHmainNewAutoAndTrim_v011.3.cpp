@@ -1,5 +1,3 @@
-//David Orser added an annoying comment here, please remove it!
-
 #include <iostream>
 #include <memory>
 #include <string>
