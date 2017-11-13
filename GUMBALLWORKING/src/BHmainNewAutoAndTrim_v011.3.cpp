@@ -15,7 +15,7 @@
 
 #include <ctrlib/CANTalon.h>
 #include "AHRS.h"
-// somethign
+// something
 #include <PowerDistributionPanel.h>
 
 class Robot: public frc::IterativeRobot {
